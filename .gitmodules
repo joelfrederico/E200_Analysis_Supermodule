@@ -1,0 +1,3 @@
+[submodule "background-processing"]
+	path = background-processing
+	url = git@github.com:joelfrederico/background-processing.git
